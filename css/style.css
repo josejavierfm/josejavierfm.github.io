@@ -1044,11 +1044,12 @@
 		}
 
 		#banner h2 {
-			color: #ffffff;
+			color: #000;
 			font-size: 4em;
 			line-height: 1.25em;
 			margin: 0 0 0.5em 0;
 			padding: 0;
+			text-shadow: 3px 3px #ca3232;
 		}
 
 		#banner p {
